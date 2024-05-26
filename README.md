@@ -6,7 +6,7 @@ This project contains a ROS (Robot Operating System) node written in Python that
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/jupyter-follow-red-ball.git
+   git clone https://github.com/marco461/jupyter-follow-red-ball.git
    cd jupyter-follow-red-ball
    ```
 
@@ -26,7 +26,7 @@ This project contains a ROS (Robot Operating System) node written in Python that
 
 2. **Run the node:**
    ```bash
-   python jupyter_follow_red_ball.py
+   python main.py
    ```
 
 ## Node Details
